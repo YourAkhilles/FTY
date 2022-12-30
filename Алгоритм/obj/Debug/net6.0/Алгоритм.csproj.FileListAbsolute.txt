@@ -1,0 +1,15 @@
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\bin\Debug\net6.0\Алгоритм.exe
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\bin\Debug\net6.0\Алгоритм.deps.json
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\bin\Debug\net6.0\Алгоритм.runtimeconfig.json
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\bin\Debug\net6.0\Алгоритм.dll
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\bin\Debug\net6.0\Алгоритм.pdb
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.csproj.AssemblyReference.cache
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.AssemblyInfoInputs.cache
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.AssemblyInfo.cs
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.csproj.CoreCompileInputs.cache
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.dll
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\refint\Алгоритм.dll
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.pdb
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\Алгоритм.genruntimeconfig.cache
+C:\Users\124\OneDrive\Рабочий стол\FTY\TFT\Алгоритм\obj\Debug\net6.0\ref\Алгоритм.dll
